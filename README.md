@@ -12,7 +12,7 @@ Hello Everyone, this repository is used to store any file that related to this p
 
 # Machine Learning Team
 |           Name         |                               Linkedln                                  | 
-|          :---:         |                                 :---:                                   |
+|          :---         |                                 :---:                                   |
 | Miranda Rafa Yunizar   | [Linkedln](https://www.linkedin.com/in/miranda-rafa-yunizar-990666170/) |
 | Nafis Almajid          | [Linkedln](https://www.linkedin.com/in/nafisalmajid/)                   |
 | Nazriyah Deny Tsaniyah | [Linkedln](https://www.linkedin.com/in/nazriyah-deny-tsaniyah/)         |
