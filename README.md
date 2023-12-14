@@ -4,14 +4,13 @@ Hello Everyone, this repository is used to store any file that related to this p
 # What You Need
 1. Programming Language : Python (3.9 - 3.11)
 2. Library : TensorFlow, imageiov2, keras-efficientnet-v2, numpy, matplotlib, plotly, gdown, os, io, pillow, IPython, urllib, pydot, graphviz
-3. Any other option you can use google collab
+3. You can use google collab for other option
 
 # Resource
 1. [Model](https://drive.google.com/file/d/1Wfd1-VnfwBTjJtyKA6Q76WZzq8YqEX3n/view?usp=drive_link)
 2. [Dataset](https://drive.google.com/file/d/1xqd9M2uCFM1rmk0gmctnuacm2KMBQk_j/view?usp=drive_link)
 
 # Machine Learning Team
-|          :---:         |                                 :---:                                   |
 |           Name         |                               Linkedln                                  | 
 | :---                   |                                 :---:                                   |
 | Miranda Rafa Yunizar   | [Linkedln](https://www.linkedin.com/in/miranda-rafa-yunizar-990666170/) |
