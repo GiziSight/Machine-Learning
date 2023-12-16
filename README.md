@@ -8,11 +8,11 @@ Hello Everyone, this repository is used to store any file that related to this p
 
 # Resource
 1. [Model](https://drive.google.com/file/d/1Wfd1-VnfwBTjJtyKA6Q76WZzq8YqEX3n/view?usp=drive_link)
-2. [Dataset](https://drive.google.com/file/d/1xqd9M2uCFM1rmk0gmctnuacm2KMBQk_j/view?usp=drive_link)
+2. [Dataset](https://drive.google.com/drive/folders/1eCLceQ7-m-h2YRLGy3m_Ut0IILVeBhNT?usp=drive_link)
 
 # Machine Learning Team
 |           Name         |                               Linkedln                                  | 
-|          :---         |                                 :---:                                   |
+|          :---          |                                 :---:                                   |
 | Miranda Rafa Yunizar   | [Linkedln](https://www.linkedin.com/in/miranda-rafa-yunizar-990666170/) |
 | Nafis Almajid          | [Linkedln](https://www.linkedin.com/in/nafisalmajid/)                   |
 | Nazriyah Deny Tsaniyah | [Linkedln](https://www.linkedin.com/in/nazriyah-deny-tsaniyah/)         |
