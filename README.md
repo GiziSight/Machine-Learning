@@ -1,5 +1,6 @@
 # GiziSight Machine Learning Repository
-Hello Everyone, this repository is used to store any file that related to this project
+Hello Everyone, this repository is used to store any file that related to this project.
+Presentation Slide : https://www.canva.com/design/DAF1Vjq3mb4/ylvdozoFoDqcAO3K-8Yb2w/edit?utm_content=DAF1Vjq3mb4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # What You Need
 1. Programming Language : Python (3.9 - 3.11)
